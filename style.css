@@ -63,6 +63,42 @@
             transform: rotate(-12deg);
         }
         
+        .shape-5 {
+            top: 20%;
+            left: 15%;
+            width: 140px;
+            height: 140px;
+            border-color: #fbbf24;
+            transform: rotate(30deg);
+        }
+
+        .shape-6 {
+            bottom: 25%;
+            right: 15%;
+            width: 100px;
+            height: 100px;
+            border-color: #fb923c;
+            transform: rotate(-30deg);
+        }
+
+        .shape-7 {
+            top: 50%;
+            right: 40%;
+            width: 120px;
+            height: 120px;
+            border-color: #fcd34d;
+            transform: rotate(60deg);
+        }
+
+        .shape-8 {
+            bottom: 10%;
+            left: 40%;
+            width: 90px;
+            height: 90px;
+            border-color: #fdba74;
+            transform: rotate(-60deg);
+        }
+
         .shape-svg {
             position: absolute;
             top: 33%;
